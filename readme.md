@@ -129,6 +129,9 @@ gulp.task('default', function () {
 
 Add `require('coffee-script/register')` to the top of your `gulpfile.js`.
 
+### Babel
+
+Add `require('babel/register')` to the top of your `gulpfile.js`.
 
 ## License
 
